@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/WorkshopAndroid/Finalproject/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/WorkshopAndroid/Finalproject/app/src/main/res/layout/activity_my_favorites.xml" value="0.1109375" />
+        <entry key="..\:/WorkshopAndroid/Finalproject/app/src/main/res/layout/activity_news.xml" value="0.14791666666666667" />
+        <entry key="..\:/WorkshopAndroid/Finalproject/app/src/main/res/layout/activity_news_db.xml" value="0.10520833333333333" />
+        <entry key="..\:/WorkshopAndroid/Finalproject/app/src/main/res/layout/activity_webview.xml" value="0.1109375" />
+        <entry key="..\:/WorkshopAndroid/Finalproject/app/src/main/res/layout/row.xml" value="0.1" />
+        <entry key="..\:/WorkshopAndroid/Finalproject/app/src/main/res/layout/row_db.xml" value="0.16799999999999998" />
+        <entry key="..\:/WorkshopAndroid/Finalproject/app/src/main/res/menu/save_news.xml" value="0.1109375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
